@@ -1,5 +1,7 @@
 # fload: A FAT32 Bootloader for RC2014 Systems
 
+[![Demo recording](https://asciinema.org/a/abEF23ccLfq56aiIeHMijYCbo.svg)](https://asciinema.org/a/abEF23ccLfq56aiIeHMijYCbo)
+
 `fload` is a simple FAT32 bootloader for RC2014 systems with a CF card interface, pageable
 ROM, 64K of RAM, and SIO/2 serial interface. It is compatible with the CP/M boot ROM and the
 Small Computer Monitor CP/M loader. The bootloader requires a CF card with an MBR partition
